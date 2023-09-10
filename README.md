@@ -7,12 +7,28 @@ This is a list of Javascript challenges for beginners
 
 Print numbers from 1 through 10
 
-Solution is found in =="challenge_1.js"==
+Solution is found in =="challenge_1.html"==
 
 ## Challenge 2
 
-Solution is found in =="challenge_2.js"==
+Print all odd numbers from 1 to 100
+
+Solution is found in =="challenge_2.html"==
 
 ## Challenge 3
 
-Solution is found in =="challenge_3.js"==
+Print the multiples of 7
+
+Solution is found in =="challenge_3.html"==
+
+## Challenge 4
+
+Print the multiplication table of 8
+
+Solution is found in =="challenge_4.html"==
+
+## Challenge 5
+
+Print the multiplication table of 8
+
+Solution is found in =="challenge_4.html"==
