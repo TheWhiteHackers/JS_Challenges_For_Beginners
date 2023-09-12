@@ -15,7 +15,9 @@ Your result should be like: 1
                             4
                             5
 
-Solution is found in ==challenge_1.html==
+Solution is found in 
+
+==challenge_1.html==
 
 ## Challenge 2
 
@@ -42,7 +44,7 @@ Your answer should look like:   7
                                 21
                                 28
 
-Solution is found in <mark style="background-color: #FFFF00">"chalenge_2.html"</mark>  
+Solution is found in <mark style="background-color: #FFFF00">"challenge_2.html"</mark>  
 
 
 ## Challenge 4
