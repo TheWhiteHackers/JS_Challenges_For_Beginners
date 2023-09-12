@@ -42,7 +42,8 @@ Your answer should look like:   7
                                 21
                                 28
 
-Solution is found in <mark>"challenge_3.html"</mark>
+Solution is found in <mark style="background-color: #FFFF00">"chalenge_2.html"</mark>  
+
 
 ## Challenge 4
 
