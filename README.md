@@ -7,15 +7,14 @@ This is a list of Javascript challenges for beginners
 
 Print numbers from 1 through 10
 
-Use console.log()
+```html
+console.log(); your answer
+it should look like 1
+                    2
+                    3
+```
 
-Your result should be like: 1
-                            2
-                            3
-                            4
-                            5
-
-Solution is found [here](docs/challenge_1.html)
+Solution is found [here](challenge_1.html)
 
 
 ## Challenge 2
