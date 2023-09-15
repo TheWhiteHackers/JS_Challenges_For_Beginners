@@ -1,7 +1,7 @@
 # Javascript Challenges For Beginners
 This is a list of Javascript challenges for beginners
 > [!IMPORTANT]
-> Just remember, even if your code doesn't look like the answer it doesn't mean its wrong, as long as if your answer matches the result you prbabaly did it correct so YAY for you
+> Just remember, even if your code doesn't look like the answer it doesn't mean its wrong, as long as if your answer matches the result you probably did it correct so YAY for you
 
 ---
 
@@ -79,7 +79,7 @@ Each number should be multipied with every number from 1 to 10
 
 ```javascript
 console.log() your answer
-Your result should be like: 1 x 1 = 1
+Your result should be like: 1 x 1 = 1 //start
                             ...
                             2 x 3 = 6
                             ...
@@ -92,7 +92,7 @@ Solution is found [here](challenge_5.html)
 
 ## Challenge 6
 
-**Find the sum of all the numbers from 1 to 10 or 1+2+3...9+10**
+**Find the sum of all the numbers from 1 to 10 or 1 + 2+ 3...9 + 10**
 
 Don't do it manually
 
@@ -105,7 +105,7 @@ Solution is found [here](challenge_6.html)
 
 ## Challenge 7
 
-**Find 10! or 1x2x3...x9x10**
+**Find 10! or 1 x 2 x 3...x 9 x 10**
 
 Don't do it manually
 
@@ -118,7 +118,7 @@ Solution is found [here](challenge_7.html)
 
 ## Challenge 8
 
-**Add odd numbers from 1 through 30 or 1+3+5...+27+29**
+**Add odd numbers from 1 through 30 or 1 + 3 + 5...+ 27+ 29**
 
 Don't do it manually
 
