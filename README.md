@@ -15,9 +15,8 @@ Your result should be like: 1
                             4
                             5
 
-Solution is found in 
+Solution is found [here](docs/challenge_1.html)
 
-==challenge_1.html==
 
 ## Challenge 2
 
