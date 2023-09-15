@@ -1,96 +1,130 @@
 # Javascript Challenges For Beginners
 This is a list of Javascript challenges for beginners
+> [!IMPORTANT]
+> Just remember, even if your code doesn't look like the answer it doesn't mean its wrong, as long as if your answer matches the result you prbabaly did it correct so YAY for you
 
 ---
 
 ## Challenge 1
 
-Print numbers from 1 through 10
+**Print numbers from 1 through 10**
 
-```html
-console.log(); your answer
-it should look like 1
-                    2
-                    3
+This should be obvious but don't do it manually
+
+```javascript
+console.log() your answer
+Your result should be like: 1
+                            2
+                            3
+                            4
+                            and so on
 ```
 
 Solution is found [here](challenge_1.html)
 
-
 ## Challenge 2
 
-Print all odd numbers from 1 to 100
+**Print all odd numbers from 1 to 100**
 
-Use console.log()
+Doing it manually would a pain here
 
+```javascript
+console.log() your answer
 Your result should be like: 1
                             3
                             5
                             7
                             9
+                            and so on
+```
 
-Solution is found in =="challenge_2.html"==
+Solution is found [here](challenge_2.html)
 
 ## Challenge 3
 
-Print the multiples of 7
+**Print the multiples of 7**
 
-Use console.log()
+```javascript
+console.log() your answer
+Your result should be like: 7
+                            14
+                            21
+                            28
+                            and so on
+```
 
-Your answer should look like:   7
-                                14
-                                21
-                                28
-
-Solution is found in <mark style="background-color: #FFFF00">"challenge_2.html"</mark>  
-
+Solution is found [here](challenge_3.html) 
 
 ## Challenge 4
 
-Print the multiplication table of 8
+**Print the multiplication table of 8**
 
 Go all the way up to 10
 
-Use console.log()
+```javascript
+console.log() your answer
+Your result should be like: 8 x 1 = 8
+                            8 x 2 = 16
+                            ...
+                            8 x 10 = 80 //finish
+```
 
-Your answer should look like 8 x 1 = 8...8 x 10 = 80 and so on
-
-Solution is found in <mark>"challenge_4.html"</mark>
+Solution is found [here](challenge_4.html) 
 
 ## Challenge 5
 
-Print all the multiplication tables with all the numbers from 1 to 10
+**Print all the multiplication tables with all the numbers from 1 to 10**
 
 Each number should be multipied with every number from 1 to 10
 
-Your answer should be like: 1 x 10 = 10...8 x 1 = 8...10 x 9 = 90
+```javascript
+console.log() your answer
+Your result should be like: 1 x 1 = 1
+                            ...
+                            2 x 3 = 6
+                            ...
+                            8 x 10 = 80
+                            ...
+                            10 x 10 = 100 //finish
+```
 
-Use console.log()
-
-Solution is found in =="challenge_5.html"==
+Solution is found [here](challenge_5.html) 
 
 ## Challenge 6
 
-Find the sum of all the numbers from 1 to 10 or 1+2+3...9+10
+**Find the sum of all the numbers from 1 to 10 or 1+2+3...9+10**
 
-Don't do it manually use a "for loop"
+Don't do it manually
 
-Use console.log()
+```javascript
+console.log() your answer
+Your result should be 1 whole number
+```
 
-Solution is found in =="challenge_6.html"==
+Solution is found [here](challenge_6.html) 
 
 ## Challenge 7
 
-Find 10! or 1x2x3...x9x10
+**Find 10! or 1x2x3...x9x10**
 
-Use console.log()
+Don't do it manually
 
-Solution is found in =="challenge_7.html"==
+```javascript
+console.log() your answer
+Your result should be 1 whole number
+```
+
+Solution is found [here](challenge_7.html) 
 
 ## Challenge 8
 
-Add odd numbers from 1 through 30 or 1+2+3...+8+9+10
+**Add odd numbers from 1 through 30 or 1+3+5...+27+29**
 
-Use console.log()
+Don't do it manually
 
-Solution is found in =="challenge_8.html"==
+```javascript
+console.log() your answer
+Your result should be 1 whole number
+```
+
+Solution is found [here](challenge_7.html) 
