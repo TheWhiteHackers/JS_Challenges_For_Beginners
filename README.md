@@ -2,6 +2,7 @@
 This is a list of Javascript challenges for beginners
 > [!IMPORTANT]
 > Just remember, even if your code doesn't look like the answer it doesn't mean its wrong, as long as if your answer matches the result you probably did it correct so YAY for you
+
 Just incase you don't know these challenges use the console. To quickly access the console press control+shift+J for Windows and Linux or command+shift+J for MacOS
 
 
@@ -28,7 +29,7 @@ Solution is found [here](challenge_1.html)
 
 **Print all odd numbers from 1 to 100**
 
-Doing it manually would a pain here
+Doing it manually would a pain here...
 
 ```javascript
 console.log() your answer
@@ -67,7 +68,7 @@ Go all the way up to 10
 
 ```javascript
 console.log() your answer
-Your result should be like: 8 x 1 = 8
+Your result should be like: 8 x 1 = 8 //start
                             8 x 2 = 16
                             ...
                             8 x 10 = 80 //finish
