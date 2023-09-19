@@ -2,6 +2,8 @@
 This is a list of Javascript challenges for beginners
 > [!IMPORTANT]
 > Just remember, even if your code doesn't look like the answer it doesn't mean its wrong, as long as if your answer matches the result you probably did it correct so YAY for you
+Just incase you don't know these challenges use the console. To quickly access the console press control+shift+J for Windows and Linux or command+shift+J for MacOS
+
 
 ---
 
@@ -43,6 +45,8 @@ Solution is found [here](challenge_2.html)
 ## Challenge 3
 
 **Print the multiples of 7**
+
+Up to 10
 
 ```javascript
 console.log() your answer
