@@ -127,6 +127,8 @@ Solution is found [here](challenge_7.html)
 
 Don't do it manually
 
+This is **not** summing the 1st 30 odd numbers this is adding up all the odd numbers until you get to 30
+
 ```javascript
 console.log() your answer
 Your result should be 1 whole number
