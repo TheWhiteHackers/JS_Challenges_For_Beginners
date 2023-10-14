@@ -135,3 +135,33 @@ Your result should be 1 whole number
 ```
 
 Solution is found [here](challenge_7.html) 
+
+## Challenge 9
+
+**Calculate the sum of numbers in an array**
+
+```javascript
+console.log() your answer
+Your result should be 1 whole number
+
+They array will look like this (use it for the challenge):
+
+let array = [1, 3, -5, 17, 7];
+```
+
+Solution is found [here](challenge_9.html) 
+
+## Challenge 10
+
+**Add odd numbers from 1 through 30 or 1 + 3 + 5...+ 27+ 29**
+
+Don't do it manually
+
+This is **not** summing the 1st 30 odd numbers this is adding up all the odd numbers until you get to 30
+
+```javascript
+console.log() your answer
+Your result should be 1 whole number
+```
+
+Solution is found [here](challenge_10.html) 
